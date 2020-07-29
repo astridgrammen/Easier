@@ -1,3 +1,11 @@
+## About Easier
+Eindwerk aan de Syntra Limburg in de richting Full stack webdeveloper.
+Project gemaakt in groepsverband. 
+
+EASIER helpt je gemakkelijk en snel afspraken te maken bij je persoonlijke gekozen psycholoog met daarbij een overzicht van je afspraken. Deze webapplicatie werd gemaakt in Laravel, een PHP open source web framework.
+
+Het was voor ons alle drie en uitdagend project waarbij we veel geleerd hebben via de trial-and-error methode.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
